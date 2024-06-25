@@ -1,0 +1,47 @@
+[
+    [
+        {
+            "id": "1",
+            "title": "Sofas",
+            "des": "Indulge in comfort and style with our exquisite collection of sofas, where luxury meets functionality. Each sofa in our selection is a testament to craftsmanship and design, promising a perfect blend of relaxation and aesthetic appeal. Discover the perfect piece to transform your home, where every seat is an invitation to unwind and enjoy moments of sheer comfort."
+        }
+    ],
+    [
+        {
+            "id": "1",
+            "imgUrl": "/product/simg1.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "2",
+            "imgUrl": "/product/simg2.webp",
+            "des":"A Black Leather Sofa exudes timeless charm and durability. Its sleek design adds a touch of elegance to any space, effortlessly blending classic appeal with a modern aesthetic. Easy to maintain, it offers both style and practicality for a contemporary living area.",
+            "rs": "4000"
+        },
+        {
+            "id": "3",
+            "imgUrl": "/product/simg3.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "4",
+            "imgUrl": "/product/simg4.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "5",
+            "imgUrl": "/product/simg5.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "6",
+            "imgUrl": "/product/simg6.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        }
+    ]
+]

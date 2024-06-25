@@ -1,0 +1,61 @@
+/* <div className='flex flex-col items-center justify-center'>
+                        <h1 className='text-4xl font-medium'>Who We <span className='text-orange-600'>Are</span></h1>
+                        <p className='w-[70%] text-lg text-center my-10 mb-14'>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            Commodi, facilis sint provident fuga officia velit qui
+                            officiis porro enim repellendus, aperiam aut, ad quas
+                            rem sunt illo illum magnam explicabo placeat adipisci ex quis.
+                            Ipsa saepe rem nulla excepturi itaque iusto officia, cum error
+                            necessitatibus autem quibusdam aliquid, et in.
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                            Cum non reprehenderit iure, veritatis praesentium sint facilis
+                            accusantium blanditiis consequuntur fugit cupiditate similique
+                            enim impedit optio odio quaerat magni eum laboriosam veniam,
+                            neque velit voluptas. Aliquid, aspernatur facilis quod odio magni
+                            delectus libero repellat nesciunt, vero repudiandae est unde vel
+                            perspiciatis.
+                        </p>
+                        <img src="/hero2.webp" alt="" className='w-full px-20 h-[60vh]' />
+                    </div>
+                    <div className='flex flex-wrap items-center justify-evenly mt-20'>
+                        <div className='w-2/5 text-4xl flex justify-center ' style={{ fontFamily: '"Lobster", sans-serif' }}>
+                            <div className='w-2/3 '>
+                                <p className='text-left'>"</p>
+                                <p className=''>Our work does makes sense only if it is a faithful witness of his time</p>
+                                <p className='text-right'>"</p>
+                            </div>
+                        </div>
+                        <div className='w-2/5'>
+                            <img src="/hero1.webp" alt="" className='md:w-[1000px]' />
+                        </div>
+                    </div>
+                    <div className='w-full flex justify-evenly mt-20 px-10'>
+                        <div className='flex w-1/2 flex-wrap items-center'>
+                            <div className='w-1/2 flex flex-col gap-5 items-center'>
+                                <img src="/team.webp" alt="" className='w-72 h-[32vh]' />
+                                <img src="/team.webp" alt="" className='w-72 h-[32vh]' />
+                            </div>
+                            <div className=' '>
+                                <img src="/team.webp" alt="" className='w-64 h-[32vh]' />
+                            </div>
+                        </div>
+                        <div className='w-2/5 '>
+                            <h1 className='text-5xl font-semibold mb-10'>The Team</h1>
+                            <p className=' text-lg'>All art is quite useless. one can never consent to creep when
+                                one feels an impulse to soar. words do not express thougts
+                                very well. They always become a little different immediately after
+                                they are expressed, a little distorted, a little foolish.
+                            </p>
+                            <p className='my-5 mb-20 text-lg'>
+                                He had a word, too love, he called it. but I had been used to
+                                words for a long time. I knew that word was like the other
+                                just a shape to fill a lack, that when the right time came, you
+                                wouldn't need a word for that any more than for pride or fear.
+                            </p>
+                            <div className='flex items-center sm:text-4xl text-2xl sm:gap-x-5 gap-x-3 sm:justify-between ' >
+                                <p className='sm:w-40 text-center'>400 <p className='sm:text-base text-xs w-full text-center text-slate-500 '>million sq ft of sustainable work</p></p>
+                                <p className='sm:w-40 text-center'>600 <p className='sm:text-base text-xs w-full text-center text-slate-500'>billon gallons of water saved annualy</p></p>
+                                <p className='sm:w-40 text-center'>100 <p className='sm:text-base text-xs w-full text-center text-slate-500'>million sq ft of LED cetified projects</p></p>
+                                <p className='sm:w-40 text-center'>100 <p className='sm:text-base text-xs w-full text-center text-slate-500'>USGBC certified projects</p></p>
+                            </div>
+                        </div>
+                    </div> */

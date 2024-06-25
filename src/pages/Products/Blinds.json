@@ -1,0 +1,47 @@
+[
+    [
+        {
+            "id": "1",
+            "title": "Blinds",
+            "des": "Elevate your living spaces with our range of sophisticated blinds, meticulously crafted to add privacy, style, and functionality to your windows. Our collection showcases a fusion of contemporary designs, quality materials, and versatile options to complement any interior aesthetic. Enhance your home with these refined window treatments that strike the perfect balance between form and function, inviting you to enjoy privacy and natural light control in style."
+        }
+    ],
+    [
+        {
+            "id": "1",
+            "imgUrl": "/product/bimg1.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "2",
+            "imgUrl": "/product/bimg2.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "3",
+            "imgUrl": "/product/bimg3.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "4",
+            "imgUrl": "/product/bimg4.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "5",
+            "imgUrl": "/product/bimg5.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        },
+        {
+            "id": "6",
+            "imgUrl": "/product/bimg6.webp",
+            "des":"Trust us when we say that these understated flax linen curtains take the pain out of window treatment design. They're a classic, goes-with-anything tan, include a practical cotton lining for privacy, and feature an oversized rod pocket treatment. Done and done!",
+            "rs": "4000"
+        }
+    ]
+]

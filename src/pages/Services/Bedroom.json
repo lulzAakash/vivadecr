@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "imgUrl": "/Interior/bimg1.webp"
+    },
+    {
+        "id": "2",
+        "imgUrl": "/Interior/bimg2.webp"
+    },
+    {
+        "id": "3",
+        "imgUrl": "/Interior/bimg3.webp"
+    },
+    {
+        "id": "4",
+        "imgUrl": "/Interior/bimg4.webp"
+    },
+    {
+        "id": "5",
+        "imgUrl": "/Interior/bimg5.webp"
+    },
+    {
+        "id": "6",
+        "imgUrl": "/Interior/bimg6.webp"
+    }
+]
